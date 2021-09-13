@@ -1,0 +1,42 @@
+{
+  "Text": {
+    "instances": 22,
+    "props": {
+      "variant": 21,
+      "hasEllipsis": 2
+    }
+  },
+  "Icon": {
+    "instances": 3,
+    "props": {
+      "color": 3,
+      "frameSize": 3,
+      "icon": 3
+    }
+  },
+  "Spacer": {
+    "instances": 3,
+    "props": {
+      "bottom": 3
+    }
+  },
+  "SvgCross": {
+    "instances": 2,
+    "props": {}
+  },
+  "Container": {
+    "instances": 1,
+    "props": {
+      "maxWidth": 1,
+      "paddingBottom": 1
+    }
+  },
+  "SvgDownload": {
+    "instances": 1,
+    "props": {}
+  },
+  "SvgExternal": {
+    "instances": 1,
+    "props": {}
+  }
+}

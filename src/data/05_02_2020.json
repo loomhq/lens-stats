@@ -1,0 +1,529 @@
+{
+  "Text": {
+    "instances": 219,
+    "props": {
+      "fontWeight": 67,
+      "size": 59,
+      "variant": 58,
+      "isDimmed": 16,
+      "color": 10,
+      "hasEllipsis": 10,
+      "className": 9,
+      "htmlTag": 8,
+      "isInline": 7,
+      "key": 1,
+      "onMouseEnter": 1
+    }
+  },
+  "Spacer": {
+    "instances": 198,
+    "props": {
+      "bottom": 90,
+      "top": 72,
+      "right": 32,
+      "left": 17,
+      "className": 1
+    }
+  },
+  "Button": {
+    "instances": 88,
+    "props": {
+      "onClick": 81,
+      "variant": 62,
+      "isDisabled": 37,
+      "hasFullWidth": 29,
+      "hasLoader": 27,
+      "icon": 22,
+      "size": 13,
+      "className": 5,
+      "disabled": 2,
+      "href": 2,
+      "htmlTag": 2,
+      "logoSrc": 2,
+      "target": 1
+    }
+  },
+  "Icon": {
+    "instances": 54,
+    "props": {
+      "icon": 54,
+      "color": 29,
+      "className": 11,
+      "size": 7,
+      "onClick": 2
+    }
+  },
+  "TextInput": {
+    "instances": 40,
+    "props": {
+      "onChange": 39,
+      "placeholder": 36,
+      "value": 36,
+      "id": 14,
+      "className": 13,
+      "isDisabled": 12,
+      "type": 8,
+      "onKeyDown": 3,
+      "icon": 1,
+      "onKeyUp": 1,
+      "ref": 1
+    }
+  },
+  "IconButton": {
+    "instances": 33,
+    "props": {
+      "icon": 32,
+      "onClick": 26,
+      "iconColor": 10,
+      "className": 3,
+      "isDisabled": 3,
+      "key": 1,
+      "tabIndex": 1
+    }
+  },
+  "FormField": {
+    "instances": 15,
+    "props": {
+      "label": 14,
+      "labelFor": 14,
+      "errorMessage": 8,
+      "className": 7
+    }
+  },
+  "Tooltip": {
+    "instances": 15,
+    "props": {
+      "content": 15,
+      "placement": 14,
+      "keepOpen": 1,
+      "triggerOffset": 1
+    }
+  },
+  "Container": {
+    "instances": 14,
+    "props": {
+      "height": 8,
+      "backgroundColor": 6,
+      "paddingRight": 4,
+      "width": 3,
+      "borderColor": 2,
+      "borderSide": 2,
+      "maxWidth": 2,
+      "paddingBottom": 2,
+      "paddingLeft": 2,
+      "paddingTop": 2,
+      "id": 1,
+      "onClick": 1,
+      "padding": 1,
+      "radius": 1,
+      "shadow": 1
+    }
+  },
+  "Link": {
+    "instances": 11,
+    "props": {
+      "onClick": 11,
+      "href": 8,
+      "target": 6,
+      "className": 3,
+      "title": 1
+    }
+  },
+  "Loader": {
+    "instances": 11,
+    "props": {
+      "size": 10,
+      "color": 6
+    }
+  },
+  "SvgClose": {
+    "instances": 10,
+    "props": {}
+  },
+  "Modal": {
+    "instances": 8,
+    "props": {
+      "isOpen": 8,
+      "onCloseClick": 7,
+      "mainButton": 6,
+      "title": 6,
+      "onBackgroundClick": 5,
+      "alternativeButton": 3,
+      "maxWidth": 3,
+      "className": 1,
+      "hasDividers": 1,
+      "secondaryButton": 1
+    }
+  },
+  "SvgFolder": {
+    "instances": 8,
+    "props": {}
+  },
+  "SvgLink": {
+    "instances": 8,
+    "props": {}
+  },
+  "TextButton": {
+    "instances": 7,
+    "props": {
+      "onClick": 7,
+      "icon": 6,
+      "className": 2,
+      "isDisabled": 1
+    }
+  },
+  "Dropdown": {
+    "instances": 5,
+    "props": {
+      "options": 5,
+      "trigger": 5,
+      "menuPosition": 4
+    }
+  },
+  "Layout.Section": {
+    "instances": 5,
+    "props": {
+      "width": 3
+    }
+  },
+  "Select": {
+    "instances": 5,
+    "props": {
+      "onChange": 5,
+      "options": 5,
+      "selectedOptionValue": 5,
+      "placeholder": 4,
+      "isDisabled": 3
+    }
+  },
+  "SvgArrowForward": {
+    "instances": 5,
+    "props": {}
+  },
+  "SvgLaunch": {
+    "instances": 5,
+    "props": {}
+  },
+  "Checkbox": {
+    "instances": 4,
+    "props": {
+      "isChecked": 4,
+      "onChange": 3,
+      "isDisabled": 1,
+      "onFocus": 1,
+      "readOnly": 1
+    }
+  },
+  "Distribute": {
+    "instances": 4,
+    "props": {
+      "alignment": 4,
+      "gap": 2,
+      "isSpread": 2,
+      "direction": 1
+    }
+  },
+  "SvgArrowBack": {
+    "instances": 4,
+    "props": {}
+  },
+  "SvgAdd": {
+    "instances": 3,
+    "props": {}
+  },
+  "SvgArrowRight": {
+    "instances": 3,
+    "props": {}
+  },
+  "SvgCheck": {
+    "instances": 3,
+    "props": {}
+  },
+  "SvgDownload": {
+    "instances": 3,
+    "props": {}
+  },
+  "SvgLock": {
+    "instances": 3,
+    "props": {}
+  },
+  "SvgMoreHoriz": {
+    "instances": 3,
+    "props": {}
+  },
+  "SvgPeople": {
+    "instances": 3,
+    "props": {}
+  },
+  "SvgPlayArrow": {
+    "instances": 3,
+    "props": {}
+  },
+  "SvgSearch": {
+    "instances": 3,
+    "props": {}
+  },
+  "Layout": {
+    "instances": 2,
+    "props": {
+      "alignment": 2
+    }
+  },
+  "SvgCheckCircleOutline": {
+    "instances": 2,
+    "props": {}
+  },
+  "SvgCopy": {
+    "instances": 2,
+    "props": {}
+  },
+  "SvgDelete": {
+    "instances": 2,
+    "props": {
+      "color": 1
+    }
+  },
+  "SvgFolderShared": {
+    "instances": 2,
+    "props": {}
+  },
+  "SvgGroupAdd": {
+    "instances": 2,
+    "props": {}
+  },
+  "SvgKeyboardArrowDown": {
+    "instances": 2,
+    "props": {}
+  },
+  "SvgKeyboardArrowRight": {
+    "instances": 2,
+    "props": {}
+  },
+  "SvgLinkOff": {
+    "instances": 2,
+    "props": {}
+  },
+  "SvgPerson": {
+    "instances": 2,
+    "props": {}
+  },
+  "SvgStar": {
+    "instances": 2,
+    "props": {}
+  },
+  "SvgStarOutline": {
+    "instances": 2,
+    "props": {}
+  },
+  "SvgVideoLibrary": {
+    "instances": 2,
+    "props": {}
+  },
+  "SvgVideocam": {
+    "instances": 2,
+    "props": {}
+  },
+  "SvgViewList": {
+    "instances": 2,
+    "props": {}
+  },
+  "Textarea": {
+    "instances": 2,
+    "props": {
+      "onChange": 2,
+      "placeholder": 2,
+      "value": 2,
+      "className": 1,
+      "rows": 1
+    }
+  },
+  "Align": {
+    "instances": 1,
+    "props": {
+      "alignment": 1
+    }
+  },
+  "Backdrop": {
+    "instances": 1,
+    "props": {
+      "isOpen": 1,
+      "zIndex": 1
+    }
+  },
+  "Logo": {
+    "instances": 1,
+    "props": {
+      "maxWidth": 1,
+      "symbolColor": 1,
+      "variant": 1
+    }
+  },
+  "SvgAccountCircle": {
+    "instances": 1,
+    "props": {}
+  },
+  "SvgAddAPhoto": {
+    "instances": 1,
+    "props": {}
+  },
+  "SvgApps": {
+    "instances": 1,
+    "props": {}
+  },
+  "SvgArchive": {
+    "instances": 1,
+    "props": {}
+  },
+  "SvgChrome": {
+    "instances": 1,
+    "props": {}
+  },
+  "SvgCollapse": {
+    "instances": 1,
+    "props": {}
+  },
+  "SvgComment": {
+    "instances": 1,
+    "props": {}
+  },
+  "SvgCreate": {
+    "instances": 1,
+    "props": {}
+  },
+  "SvgCrop169": {
+    "instances": 1,
+    "props": {}
+  },
+  "SvgCropExpanded169": {
+    "instances": 1,
+    "props": {}
+  },
+  "SvgDeleteForever": {
+    "instances": 1,
+    "props": {}
+  },
+  "SvgDesktopMac": {
+    "instances": 1,
+    "props": {}
+  },
+  "SvgFiberManualRecord": {
+    "instances": 1,
+    "props": {}
+  },
+  "SvgForward5": {
+    "instances": 1,
+    "props": {}
+  },
+  "SvgFullscreen": {
+    "instances": 1,
+    "props": {}
+  },
+  "SvgFullscreenExit": {
+    "instances": 1,
+    "props": {}
+  },
+  "SvgHelp": {
+    "instances": 1,
+    "props": {}
+  },
+  "SvgHighlightOff": {
+    "instances": 1,
+    "props": {}
+  },
+  "SvgInfo": {
+    "instances": 1,
+    "props": {}
+  },
+  "SvgKeyboardArrowUp": {
+    "instances": 1,
+    "props": {}
+  },
+  "SvgMenu": {
+    "instances": 1,
+    "props": {}
+  },
+  "SvgMic": {
+    "instances": 1,
+    "props": {}
+  },
+  "SvgMicOff": {
+    "instances": 1,
+    "props": {
+      "color": 1
+    }
+  },
+  "SvgNotifications": {
+    "instances": 1,
+    "props": {}
+  },
+  "SvgOfflineBolt": {
+    "instances": 1,
+    "props": {}
+  },
+  "SvgPause": {
+    "instances": 1,
+    "props": {}
+  },
+  "SvgRemoveRedEye": {
+    "instances": 1,
+    "props": {}
+  },
+  "SvgReplay5": {
+    "instances": 1,
+    "props": {}
+  },
+  "SvgReply": {
+    "instances": 1,
+    "props": {}
+  },
+  "SvgSend": {
+    "instances": 1,
+    "props": {}
+  },
+  "SvgSentimentSatisfied": {
+    "instances": 1,
+    "props": {}
+  },
+  "SvgSettings": {
+    "instances": 1,
+    "props": {}
+  },
+  "SvgShare": {
+    "instances": 1,
+    "props": {}
+  },
+  "SvgStop": {
+    "instances": 1,
+    "props": {
+      "color": 1
+    }
+  },
+  "SvgTimer": {
+    "instances": 1,
+    "props": {}
+  },
+  "SvgVideocamOff": {
+    "instances": 1,
+    "props": {
+      "color": 1
+    }
+  },
+  "SvgVolumeDown": {
+    "instances": 1,
+    "props": {}
+  },
+  "SvgVolumeOff": {
+    "instances": 1,
+    "props": {}
+  },
+  "SvgVolumeUp": {
+    "instances": 1,
+    "props": {}
+  },
+  "Switch": {
+    "instances": 1,
+    "props": {
+      "id": 1
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Icon": {
+    "instances": 2,
+    "props": {
+      "color": 2,
+      "frameSize": 2,
+      "icon": 2,
+      "onClick": 2
+    }
+  },
+  "SvgCross": {
+    "instances": 1,
+    "props": {}
+  },
+  "SvgDownload": {
+    "instances": 1,
+    "props": {}
+  },
+  "SvgExternal": {
+    "instances": 1,
+    "props": {}
+  }
+}

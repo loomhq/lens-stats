@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap");
+
+* {
+  line-height: calc(0.8rem + 0.9em);
+}
+
+body {
+  --pagePadding: calc(1vw + 1rem);
+  margin: 0;
+  background-color: var(--lns-color-background);
+}
+
+.rowWrapper {
+  padding: var(--pagePadding);
+}
+
+.rowWrapper:hover {
+  background-color: var(--lns-color-backgroundHover);
+}
